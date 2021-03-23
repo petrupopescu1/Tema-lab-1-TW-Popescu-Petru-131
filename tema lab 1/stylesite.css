@@ -280,6 +280,15 @@ ul
     flex-direction:column;
     justify-content:center;   
   }
+  .meniu-item{
+    color:black;
+    font-family: Times;
+    font-size:20px;
+    padding-left:50px;
+  }
+  .pret{
+    font-size:18px;
+  }
 }
 
 
